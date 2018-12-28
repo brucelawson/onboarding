@@ -4,7 +4,7 @@ A collection of useful things and instructions. The onboarding includes:
 
 - how to set up the local testing environment of smashingmagazine.com
 - a cross-reference to various smashing URLs
-- a list of who in the team does what
+- a list of [who in the team does what](#whos-doing-what)
 
 
 ## A list of services you'll need access to:
@@ -118,13 +118,15 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 
 #### Core editors
 
+Cosima Mielke: Runs our Smashing Wallpaper series
 Drew Mclellan: technical editor for CSS and PHP
 Iris Ljesnjanin : author details, article updates, publishing, author
 Rachel Andrew: **Editor in Chief**, article reviews, in control of the editorial
 Rey Bango: technical editor for CSS and JavaScript
 Yana Kirilenko: article and image uploads
 
-#### Subject editors:
+#### Subject editors
+
 Alma Hoffmann: Contributing design editor
 Andrew Lobo: proofreading
 ChuiChui Tan: Contributing UX design editor
@@ -137,7 +139,7 @@ Michel Bozgounov: technical editor for (UX) Design tools, including Photoshop, S
 Nick Babich: UX Design author, writes sponsored articles quite often
 Suzanne Scacce: technical author, writes sponsored articles related to PHP, Wordpress but also UX quite often
 
-### Events
+### Events & Event Sponsorships
 
 Amanda Annandale: producer of SmashingConf New York and Toronto
 Charis Rooda: website and mailings; tracking invited speakers
@@ -148,9 +150,18 @@ Vitaly Friedman: inviting speakers, taking care of schedule and program, Smashin
 ### Memberships
 
 Bruce Lawson: Senior Membership Manager
-Scott Whitehead: Volunteers
+Scott Whitehead: _Smashing_ Volunteer, taking care of various Membership updates.
+Cosima Mielke: Taking care of small Membership updates, including the dashboard, mailings, or the Member counter. if Scott isn't available.
 
 ### Technical Support
 
 Ilya Pukhalski: technical support, when you run into issues related to CSS or JavaScript
 Vitaly Friedman: major changes to our CSS
+
+### C-Level People
+
+Vitaly Friedman has co-founded the company and ownes the majority of Smashing, which means he always has the last word. He also is a member of our  board of directors.
+Marc Thiele is the Chair of our board of directors, and gives his advice on various things, but especially as for our conferences
+Paul Boag is a member of our board of directors, and gives more strategic advice every now and then
+Inge Emmler (CEO) does the accounting and invoices stuff, and all the nasty paperwork
+Markus Seyfferth (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
