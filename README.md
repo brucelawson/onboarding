@@ -149,17 +149,19 @@ c) To create a social sharing image for new articles, head over to `Dropbox/Edit
 
 ## **Advertising, Books, Business planning**
 
-Cosima Mielke: produces our eBooks. Taking care of small Membership updates, too. Runs our wallpaper series.
+**Cosima Mielke**: produces our eBooks. Taking care of small Membership updates, too. Runs our wallpaper series.
 
-Markus Seyffert: Taking care of the business side of Smashing. Also produces books, taking care of licenses, advertisers, sponsored articles.
+**Markus Seyfferth**: Taking care of the business side of Smashing. Also produces books, taking care of licenses, advertisers, sponsored articles.
 
 
 
 ## **Back office:**
 
-Inge Emmler: support requests, Membership status changes, accounting, invoices
-Kristina Voigt: support emails
-Jan Constantin: books fulfillment, book stand shipments, [web conf roundup](https://www.smashingmagazine.com/web-tech-front-end-ux-conferences/) update
+**Inge Emmler**: support requests, Membership status changes, accounting, invoices
+
+**Kristina Vogt**: support emails
+
+**Jan Constantin**: books fulfillment, book stand shipments, [web conf roundup](https://www.smashingmagazine.com/web-tech-front-end-ux-conferences/) update
 
 
 ## **Design assets**
