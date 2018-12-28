@@ -217,7 +217,11 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 ## C-Level People
 
 **Vitaly Friedman** has co-founded the company and ownes the majority of Smashing, which means he always has the last word. He also is a member of our  board of directors.
+
 **Marc Thiele** is the Chair of our board of directors, and gives his advice on various things, but especially as for our conferences
+
 **Paul Boag** is a member of our board of directors, and gives more strategic advice every now and then
+
 **Inge Emmler** (CEO) does the accounting and invoices stuff, and all the nasty paperwork
+
 **Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
