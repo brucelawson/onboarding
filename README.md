@@ -8,7 +8,7 @@ A collection of useful things and instructions. The onboarding includes:
 - An overview of active [product panels](#product-panel-updates)
 - A list of [who in the team does what](#whos-doing-what)
 
-# A list of services we use in our organisation:
+# A list of services we use:
 
 - A Membership subscription	
 - Access to our [Github repositories](https://github.com/smashingmagazine)	
@@ -124,9 +124,10 @@ There is also a number of currently _unused_ but available panel templates, incl
 ## Discounts & Goodies
 
 Please also check:
-	- the discounts section once a month (`/site/layouts/partials/coupons.html`) if the coupon codes still work
-	- and if the goodies section (`/site/layouts/partials/goodies.html`) can be updated
-	
+
+- the discounts section once a month (`/site/layouts/partials/coupons.html`) if the coupon codes still work
+- and if the goodies section (`/site/layouts/partials/goodies.html`) can be updated
+
 # Editorial Guidelines
 
 a) Make sure to read the [article formatting guide](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78), a guideline how to format code, images etc properly in Markdown
