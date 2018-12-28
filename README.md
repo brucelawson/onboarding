@@ -68,7 +68,7 @@ Then visit `http://localhost:3000/` — BrowserSync will automatically reload th
 
 For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](#product-panel-updates).
 
-# Webinar updates
+# Membership & Webinar updates
 
 There's a number of things that need to be done on a regular basis around when webinar happen, and here's a checklist for it:
 
@@ -83,9 +83,12 @@ There's a number of things that need to be done on a regular basis around when w
 	- Keep the various social sharing image sizes in mind, here's an [overview](https://slide.ly/promo/image-resizer/)
 
 ## After the webinar:
-- update Membership panel on the frontpage (smashingmagazine.com)
-- Update `/smashing-tv/`
-- Update Member dashboard: `/membership/#coming-up-next` and `/membership/#how-we-spent-the-money`
+- update the Membership popup on smashingmagazine.com (`/site/layouts/partials/membership-popup.html`)
+- Update `/smashing-tv/` (`/site/content/smashing-tv/`)
+- Update the Member dashboard: 
+	- Please update `/membership/#coming-up-next` (`/site/layouts/partials/coming-up-paid.html`) and (`/site/layouts/partials/coming-up.html`)
+	- Please update `/membership/#how-we-spent-the-money` (`/site/layouts/partials/spendings.html`)
+	- Add the link to the webinar recordings (`/site/layouts/partials/webinars.html`)
 
 # Product Panel updates
 
@@ -118,6 +121,12 @@ There is also a number of currently _unused_ but available panel templates, incl
 - `{{% feature-panel-toronto %}}` (about SmashingConf Toronto)
 - `{{% feature-panel--coming-up %}}` A list of upcoming webinars
 
+## Discounts & Goodies
+
+Please also check:
+	- the discounts section once a month (`/site/layouts/partials/coupons.html`) if the coupon codes still work
+	- and if the goodies section (`/site/layouts/partials/goodies.html`) can be updated
+	
 # Editorial Guidelines
 
 a) Make sure to read the [article formatting guide](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78), a guideline how to format code, images etc properly in Markdown
