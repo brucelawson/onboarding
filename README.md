@@ -8,7 +8,7 @@ A collection of useful things and instructions. The onboarding includes:
 - An overview of active [product panels](#product-panel-updates)
 - A list of [who in the team does what](#whos-doing-what)
 
-## A list of services we use in our organisation:
+# A list of services we use in our organisation:
 
 - A Membership subscription	
 - Access to our [Github repositories](https://github.com/smashingmagazine)	
@@ -33,7 +33,7 @@ That's a number of other services we use every now and then:
 
 Please use an app such as Lastpass, an extension available for Firefox, Chrome etc. to store your passwords safely. Get in touch with Markus who has all the credentials and will help you get access to these services
 
-## smashingmagazine.com local setup
+# smashingmagazine.com local setup
 
 It's highly recommended to set up your own local environment of smashingmagazine.com — it will safe you a lot of time when preparing updates.
 
@@ -48,7 +48,7 @@ In case you have trouble running it, make sure to a) have *XCode* installed and 
 
 Then visit `http://localhost:3000/` — BrowserSync will automatically reload the page when the CSS or content changes.
 
-### Structure
+## Structure
 
 ```
 |--site                // Everything in here will be built with hugo
@@ -64,15 +64,15 @@ Then visit `http://localhost:3000/` — BrowserSync will automatically reload th
 |  |--js               // app.js will be compiled to /js/ app.js with babel
 ```
 
-### Basic Concepts
+## Basic Concepts
 
 For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](#product-panel-updates).
 
-## Webinar updates
+# Webinar updates
 
 There's a number of things that need to be done on a regular basis around when webinar happen, and here's a checklist for it:
 
-### Before the webinar:
+## Before the webinar:
 
 - Check welcome mailings in `/Dropbox/Membership/mailings/00-welcome-emails/`... and upload them into Mailchimp ("ongoing campaigns") — they are pretty generic though, and only need updating if we have a major change
 - Update order confirmation “You really do know how to make a cat happy! Thanks for registering for a webinar.” (`/Github/smashing-magazine/site/static/mails/order-confirmation.html`) — this still needs adding a webinar variable from Ilya, so at the moment, we can only mention the next upcoming webinar
@@ -82,14 +82,16 @@ There's a number of things that need to be done on a regular basis around when w
 	- To create a social sharing image, head over to `Dropbox/Membership/Webinars/` and use one of the .eps files to create a new sharing image (in Illustrator)
 	- Keep the various social sharing image sizes in mind, here's an [overview](https://slide.ly/promo/image-resizer/)
 
-### After the webinar:
+## After the webinar:
 - update Membership panel on the frontpage (smashingmagazine.com)
 - Update `/smashing-tv/`
 - Update Member dashboard: `/membership/#coming-up-next` and `/membership/#how-we-spent-the-money`
 
-## Product Panel updates
+# Product Panel updates
 
 A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`:
+
+## Product Panels (articles)
 
 - The main product panel (`{{% feature-panel %}}`), currently featuring Smashing Book 6
 - The Case Study panel (`{{% feature-panel--case-study %}}`), currently featuring Form Design Patterns
@@ -102,9 +104,13 @@ A list of _active_ product panels that are included in all of our articles (and 
 - `{{% feature-panel--perf %}}`: articles, books, memberships
 - `{{% feature-panel--ux %}}`: Design Systems
 
+## Frontpage Panel
+
 Last but not least, the *Membership Adblock popup*, which appears only for not logged-in users who are using an adblocker:
 
 You'll find it in `/site/layouts/partials/membership-popup.html`. It needs to be regularly updated, especially after every webinar.
+
+## Unused Panels
 
 There is also a number of currently _unused_ but available panel templates, including:
 
@@ -112,7 +118,7 @@ There is also a number of currently _unused_ but available panel templates, incl
 - (`{{% feature-panel-toronto %}}`) (about SmashingConf Toronto)
 - (`{{% feature-panel--coming-up %}}`) A list of upcoming webinars
 
-## Editorial Guidelines
+# Editorial Guidelines
 
 a) Make sure to read the [article formatting guide](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78), a guideline how to format code, images etc properly in Markdown
 
@@ -120,29 +126,29 @@ b) For our authors, we also have set up a [Style Guide](https://www.smashingmaga
 
 c) To create a social sharing image for new articles, head over to `Dropbox/Editorial/social/` and use one of the .eps files to create a new sharing image. Keep the various social sharing image sizes in mind, here's an [overview](https://slide.ly/promo/image-resizer/)
 
-## Who's doing what:
+# Who's doing what:
 
-### Advertising, Books, Business planning
+## Advertising, Books, Business planning
 
 Cosima Mielke: produces our eBooks. Taking care of small Membership updates, too. Runs our wallpaper series.
 Markus Seyffert: Taking care of the business side of Smashing. Also produces books, taking care of licenses, advertisers, sponsored articles.
 Owen Gregory: proofreading, copyediting (print)
 
-### Back office:
+## Back office:
 
 Inge Emmler: support requests, Membership status changes, accounting, invoices
 Kristina Voigt: support emails
 Jan Constantin: books fulfillment, book stand shipments, [web conf roundup](https://www.smashingmagazine.com/web-tech-front-end-ux-conferences/) update
 
-### Design assets
+## Design assets
 
 Ricardo Gimenes, doing almost all of our illustrations.
 
 If you need to update an existing artwork, e.g. social sharing image, you can also reach out to Markus
 
-### Editorial
+## Editorial
 
-### Core editors
+## Core editors
 
 Cosima Mielke: Runs our Smashing Wallpaper series
 Drew Mclellan: technical editor for CSS and PHP
@@ -160,12 +166,12 @@ Heydon Pickering: Contributing accessibility editor
 Marko Dugonjic: Contributing UX design editor
 Michel Bozgounov: technical editor for (UX) Design tools, including Photoshop, Sketch, Illustrator, etc.
 
-### Core authors
+## Core authors
 
 Nick Babich: UX Design author, writes sponsored articles quite often
 Suzanne Scacce: technical author, writes sponsored articles related to PHP, Wordpress but also UX quite often
 
-### Events & Event Sponsorships
+## Events & Event Sponsorships
 
 Amanda Annandale: producer of SmashingConf New York and Toronto
 Charis Rooda: website and mailings; tracking invited speakers
@@ -173,18 +179,18 @@ Marc Thiele: Chair of Board of Directors and conference photograph. Also our fal
 Mariona A. Ciller: sponsorships and producer of SmashingConf San Francisco
 Vitaly Friedman: inviting speakers, taking care of schedule and program, SmashingConf MC
 
-### Memberships
+## Memberships
 
 Bruce Lawson: Senior Membership Manager
 Scott Whitehead: _Smashing_ Volunteer, taking care of various Membership updates.
 Cosima Mielke: Taking care of small Membership updates, including the dashboard, mailings, or the Member counter. if Scott isn't available.
 
-### Technical Support
+## Technical Support
 
 Ilya Pukhalski: technical support, when you run into issues related to CSS or JavaScript
 Vitaly Friedman: major changes to our CSS
 
-### C-Level People
+## C-Level People
 
 Vitaly Friedman has co-founded the company and ownes the majority of Smashing, which means he always has the last word. He also is a member of our  board of directors.
 Marc Thiele is the Chair of our board of directors, and gives his advice on various things, but especially as for our conferences
