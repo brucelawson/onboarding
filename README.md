@@ -2,7 +2,10 @@
 
 A collection of useful things and instructions. The onboarding includes:
 
-- on setting up the local testing environment; a cross-reference of smashing URLs to github folder structure; a list of who in the team does what.  This is a build setup that aims to make it easy to build out the new Smashing Magazine and use all the styles, partials, and shortcodes when building out the final website.
+- how to set up the local testing environment of smashingmagazine.com
+- a cross-reference to various smashing URLs
+- a list of who in the team does what
+
 
 ## A list of services you'll need access to:
 
