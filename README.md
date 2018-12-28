@@ -8,8 +8,6 @@ A collection of useful things and instructions. The onboarding includes:
 - An overview of active [product panels](#product-panel-updates)
 - A list of [who in the team does what](#whos-doing-what)
 
----
-
 ## A list of services we use in our organisation:
 
 - A Membership subscription	
@@ -34,8 +32,6 @@ That's a number of other services we use every now and then:
 - Zoom.us, for webinars, group calls, or calls with external people
 
 Please use an app such as Lastpass, an extension available for Firefox, Chrome etc. to store your passwords safely. Get in touch with Markus who has all the credentials and will help you get access to these services
-
----
 
 ## smashingmagazine.com local setup
 
@@ -72,8 +68,6 @@ Then visit `http://localhost:3000/` — BrowserSync will automatically reload th
 
 For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](#product-panel-updates).
 
----
-
 ## Webinar updates
 
 There's a number of things that need to be done on a regular basis around when webinar happen, and here's a checklist for it:
@@ -92,8 +86,6 @@ There's a number of things that need to be done on a regular basis around when w
 - update Membership panel on the frontpage (smashingmagazine.com)
 - Update `/smashing-tv/`
 - Update Member dashboard: `/membership/#coming-up-next` and `/membership/#how-we-spent-the-money`
-
----
 
 ## Product Panel updates
 
@@ -120,8 +112,6 @@ There is also a number of currently _unused_ but available panel templates, incl
 - (`{{% feature-panel-toronto %}}`) (about SmashingConf Toronto)
 - (`{{% feature-panel--coming-up %}}`) A list of upcoming webinars
 
----
-
 ## Editorial Guidelines
 
 a) Make sure to read the [article formatting guide](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78), a guideline how to format code, images etc properly in Markdown
@@ -129,8 +119,6 @@ a) Make sure to read the [article formatting guide](https://www.notion.so/smashi
 b) For our authors, we also have set up a [Style Guide](https://www.smashingmagazine.com/style-guide/) on the most common things that need to be kept in mind when writing an articles
 
 c) To create a social sharing image for new articles, head over to `Dropbox/Editorial/social/` and use one of the .eps files to create a new sharing image. Keep the various social sharing image sizes in mind, here's an [overview](https://slide.ly/promo/image-resizer/)
-
----
 
 ## Who's doing what:
 
