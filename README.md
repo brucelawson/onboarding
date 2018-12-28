@@ -75,7 +75,7 @@ There's a number of things that need to be done on a regular basis around when w
 ## Before the webinar:
 
 - Check welcome mailings in `/Dropbox/Membership/mailings/00-welcome-emails/`... and upload them into Mailchimp ("ongoing campaigns") — they are pretty generic though, and only need updating if we have a major change
-- Update order confirmation “You really do know how to make a cat happy! Thanks for registering for a webinar.” (`/Github/smashing-magazine/site/static/mails/order-confirmation.html`) — this still needs adding a webinar variable from Ilya, so at the moment, we can only mention the next upcoming webinar
+- Update order confirmation “You really do know how to make a cat happy! Thanks for registering for a webinar.” `/Github/smashing-magazine/site/static/mails/order-confirmation.html` — this still needs adding a webinar variable from Ilya, so at the moment, we can only mention the next upcoming webinar
 - Send out reminder mailings & update Member Slack channel
 - check setup with speaker
 - Tweet & FB it
@@ -93,9 +93,9 @@ A list of _active_ product panels that are included in all of our articles (and 
 
 ## Product Panels (articles)
 
-- The main product panel (`{{% feature-panel %}}`), currently featuring Smashing Book 6
-- The Case Study panel (`{{% feature-panel--case-study %}}`), currently featuring Form Design Patterns
-- The conference panel (`{{% feature-panel--conference %}}`), promoting our conferences (currently SmashingConf San Francisco)
+- The main product panel `{{% feature-panel %}}`, currently featuring Smashing Book 6
+- The Case Study panel `{{% feature-panel--case-study %}}`, currently featuring Form Design Patterns
+- The conference panel `{{% feature-panel--conference %}}`, promoting our conferences (currently SmashingConf San Francisco)
 
 - `{{% feature-panel %}}`, currently featuring Smashing Book 6
 - `{{% feature-panel--conference %}}`: promoting our conferences (currently SmashingConf San Francisco)
@@ -114,9 +114,9 @@ You'll find it in `/site/layouts/partials/membership-popup.html`. It needs to be
 
 There is also a number of currently _unused_ but available panel templates, including:
 
-- (`{{% feature-panel--design-systems %}}`) (about the Design Systems book)
-- (`{{% feature-panel-toronto %}}`) (about SmashingConf Toronto)
-- (`{{% feature-panel--coming-up %}}`) A list of upcoming webinars
+- `{{% feature-panel--design-systems %}}` (about the Design Systems book)
+- `{{% feature-panel-toronto %}}` (about SmashingConf Toronto)
+- `{{% feature-panel--coming-up %}}` A list of upcoming webinars
 
 # Editorial Guidelines
 
