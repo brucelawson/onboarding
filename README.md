@@ -9,13 +9,17 @@ A collection of useful things and instructions. The onboarding includes:
 
 ## A list of services you'll need access to:
 
-- Notion (where we manage our projects, conferences, and articles)
+- Notion, where we manage:
+	- [Our projects](https://www.notion.so/smashing/d4344c8a01ff4b569acbccf5bd625526)
+	- [Conferences](https://www.notion.so/smashing/6279875453324423b202b63f1e9a4041)
+	- [Editorial](https://www.notion.so/smashing/7c3f14e9a2dc442d9448a8a090191f19)
 - Dropbox, most likely including the `/Mailings/`, `/Membership/`, and `/Newsletter/` folders et al.
-- Slack (smashingeditorial.slack.com)
+- Slack (https://smashingeditorial.slack.com/).
+	- Make sure to join our [#standup](https://smashingeditorial.slack.com/messages/CD2FP7P97/) channel, too!
 - Your own email address
 - Mailchimp
-- Membership subscription
-- access to our Github repositories
+- A Membership subscription
+- Access to our [Github repositories](https://github.com/smashingmagazine)
 
 ## smashingmagazine.com local setup
 
