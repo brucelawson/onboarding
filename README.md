@@ -131,8 +131,9 @@ c) To create a social sharing image for new articles, head over to `Dropbox/Edit
 ## Advertising, Books, Business planning
 
 Cosima Mielke: produces our eBooks. Taking care of small Membership updates, too. Runs our wallpaper series.
+
 Markus Seyffert: Taking care of the business side of Smashing. Also produces books, taking care of licenses, advertisers, sponsored articles.
-Owen Gregory: proofreading, copyediting (print)
+
 
 ## Back office:
 
@@ -177,6 +178,7 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 
 **Michel Bozgounov**: technical editor for (UX) Design tools, including Photoshop, Sketch, Illustrator, etc.
 
+**Owen Gregory**: proofreading, book editing, copyediting (print)
 
 ## Core authors
 
