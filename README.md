@@ -48,6 +48,8 @@ In case you have trouble running it, make sure to a) have *XCode* installed and 
 
 Then visit `http://localhost:3000/` — BrowserSync will automatically reload the page when the CSS or content changes.
 
+to test member-specific pages locally, access them by localhost:3000/membership/$plan/ where $plan is actually one of our plans - free, member, supporter or smashing.
+
 
 ## **Structure**
 
