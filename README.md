@@ -49,7 +49,7 @@ In case you have trouble running it, make sure to a) have *XCode* installed and 
 
 Then visit `http://localhost:3000/` — BrowserSync will automatically reload the page when the CSS or content changes.
 
-To test *member-specific pages locally*, you don’t need an account. Instead, you can access them by `localhost:3000/membership/$plan/`, whereas `$plan` must be replaced by the plans `free`, `supporter`, `member` or `smashing`.
+To test member-specific pages locally, access them by localhost:3000/membership/$plan/ where $plan is actually one of our plans — free, member, supporter or smashing.
 
 ## **Structure**
 
@@ -262,5 +262,7 @@ UK (London)|€62|€41
 UK (Rest)|€45|€30
 
 [Here’s the full list](https://www.reisekostenabrechnung.com/verpflegungsmehraufwand-2019/) (in German)
+
+**Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
 
 Please note that conference organisers are the ones to cover accomodation, flights, etc, this can’t be covered by Smashing unless we are _sending_ you to a conference. :-)
