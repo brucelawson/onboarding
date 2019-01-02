@@ -13,8 +13,9 @@ A collection of useful things and instructions. The onboarding includes:
 - A Membership subscription	
 - Access to our [Github repositories](https://github.com/smashingmagazine)	
 - Adobe Creative Cloud	
-- Cloudinary, where we store our images	
+- [Cloudinary](https://cloudinary.com/console/media_library/folders/images/), where we store our images	
 - Dropbox, most likely including the `/Mailings/`, `/Membership/`, and `/Newsletter/` folders et al.	
+- [Fastbill](https://my.fastbill.com/) for creating and sending invoices
 - Mailchimp	
 - Notion, where we manage:	
 	- [Conferences](https://www.notion.so/smashing/6279875453324423b202b63f1e9a4041)
