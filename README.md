@@ -98,7 +98,7 @@ There's a number of things that need to be done on a regular basis around when w
 
 # Product Panel updates
 
-A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`. We have a list of available and active product panels over at our [Article Formatting Guide on Notion(https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89):
+A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`. We have a list of available and active product panels over at our [Article Formatting Guide on Notion](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89):
 
 ## **Frontpage Panel**
 
