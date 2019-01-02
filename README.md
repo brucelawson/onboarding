@@ -1,4 +1,4 @@
-# Smashing Onboarding
+# Smashing Documentation / FAQ / Onboarding
 
 A collection of useful things and instructions. The onboarding includes:
 
