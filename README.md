@@ -263,12 +263,17 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 
 ## Travel Expenses
 
-If you travel on behalf of Smashing, you can make use of a flat fee
+From 2019, if you travel on behalf of Smashing, you can make use of a flat fee per full day (e.g. a conference day) or half a day (8 hours, typically for traveling), which means Smashing will reimburse you with a flat fee, regardless if you are exceeding it or not. Please let @Inge know at the end of each month when you are making use of it.
 
 |Country|Full day|half day|
 |---|---|---|
+Canada (Toronto)|€51|€34
 Germany|€24|€12
+France (Paris)|€58|€39
+Spain (Barcelona)|€34|€23
 USA	(NY)|€58|€39	
 USA	(SF)|€51|€34
 UK (London)|€62|€41
 UK (Rest)|€45|€30
+
+[Here’s the full list](https://www.reisekostenabrechnung.com/verpflegungsmehraufwand-2019/) (in German)
