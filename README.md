@@ -48,6 +48,7 @@ In case you have trouble running it, make sure to a) have *XCode* installed and 
 
 Then visit `http://localhost:3000/` — BrowserSync will automatically reload the page when the CSS or content changes.
 
+To test *member-specific pages locally*, you won’t need to have an account. Instead, you can access them by `localhost:3000/membership/$plan/`, whereas `$plan` must be replace by the plans `free`, `supporter`, `member` or `smashing`.
 
 ## **Structure**
 
