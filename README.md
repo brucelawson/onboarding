@@ -70,7 +70,7 @@ To test *member-specific pages locally*, you don’t need an account. Instead, y
 
 ## **Basic Concepts**
 
-For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](#product-panel-updates).
+For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89).
 
 # Membership & Webinar updates
 
@@ -98,22 +98,7 @@ There's a number of things that need to be done on a regular basis around when w
 
 # Product Panel updates
 
-A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`:
-
-
-## **Product Panels (articles)**
-
-- The main product panel `{{% feature-panel %}}`, currently featuring Smashing Book 6
-- The Case Study panel `{{% feature-panel--case-study %}}`, currently featuring Form Design Patterns
-- The conference panel `{{% feature-panel--conference %}}`, promoting our conferences (currently SmashingConf San Francisco)
-
-- `{{% feature-panel %}}`, currently featuring Smashing Book 6
-- `{{% feature-panel--conference %}}`: promoting our conferences (currently SmashingConf San Francisco)
-- `{{% feature-panel--case-study %}}`: currently featuring Form Design Patterns
-- `{{% feature-panel--workflow %}}`: Smashing TV
-- `{{% feature-panel--perf %}}`: articles, books, memberships
-- `{{% feature-panel--ux %}}`: Design Systems
-
+A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`. We have a list of available and active product panels over at our [Article Formatting Guide on Notion(https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89):
 
 ## **Frontpage Panel**
 
