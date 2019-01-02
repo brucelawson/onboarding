@@ -256,7 +256,7 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 
 **Paul Boag** is a member of our board of directors, and gives more strategic advice every now and then
 
-**Inge Emmler** (CEO) does the accounting and invoices stuff, and all the nasty paperwork
+**Inge Emmler** (CEO) does the accounting, customer support, oversees the fulfillment, does all the invoices stuff, and pretty much all the nasty routine paperwork
 
 **Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
 
@@ -277,3 +277,5 @@ UK (London)|€62|€41
 UK (Rest)|€45|€30
 
 [Here’s the full list](https://www.reisekostenabrechnung.com/verpflegungsmehraufwand-2019/) (in German)
+
+Please note that conference organisers are the ones to cover accomodation, flights, etc, this can’t be covered by Smashing unless we are _sending_ you to a conference. :-)
