@@ -263,6 +263,4 @@ UK (Rest)|€45|€30
 
 [Here’s the full list](https://www.reisekostenabrechnung.com/verpflegungsmehraufwand-2019/) (in German)
 
-**Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
-
 Please note that conference organisers are the ones to cover accomodation, flights, etc, this can’t be covered by Smashing unless we are _sending_ you to a conference. :-)
