@@ -259,3 +259,16 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 **Inge Emmler** (CEO) does the accounting and invoices stuff, and all the nasty paperwork
 
 **Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
+
+
+## Travel Expenses
+
+If you travel on behalf of Smashing, you can make use of a flat fee
+
+|Country|Full day|half day|
+|---|---|---|
+Germany|€24|€12
+USA	(NY)|€58|€39	
+USA	(SF)|€51|€34
+UK (London)|€62|€41
+UK (Rest)|€45|€30
