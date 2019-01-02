@@ -1,4 +1,4 @@
-# Smashing Onboarding
+# Smashing Documentation / FAQ / Onboarding
 
 A collection of useful things and instructions. The onboarding includes:
 
@@ -13,8 +13,9 @@ A collection of useful things and instructions. The onboarding includes:
 - A Membership subscription	
 - Access to our [Github repositories](https://github.com/smashingmagazine)	
 - Adobe Creative Cloud	
-- Cloudinary, where we store our images	
+- [Cloudinary](https://cloudinary.com/console/media_library/folders/images/), where we store our images	
 - Dropbox, most likely including the `/Mailings/`, `/Membership/`, and `/Newsletter/` folders et al.	
+- [Fastbill](https://my.fastbill.com/) for creating and sending invoices
 - Mailchimp	
 - Notion, where we manage:	
 	- [Conferences](https://www.notion.so/smashing/6279875453324423b202b63f1e9a4041)
@@ -48,8 +49,7 @@ In case you have trouble running it, make sure to a) have *XCode* installed and 
 
 Then visit `http://localhost:3000/` — BrowserSync will automatically reload the page when the CSS or content changes.
 
-to test member-specific pages locally, access them by localhost:3000/membership/$plan/ where $plan is actually one of our plans - free, member, supporter or smashing.
-
+To test member-specific pages locally, access them by localhost:3000/membership/$plan/ where $plan is actually one of our plans — free, member, supporter or smashing.
 
 ## **Structure**
 
@@ -70,7 +70,7 @@ to test member-specific pages locally, access them by localhost:3000/membership/
 
 ## **Basic Concepts**
 
-For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](#product-panel-updates).
+For the pattern library you'll mainly work in the `src/css` folder with the SCSS files and use `site/layouts/` to update various partials in our dashboard, the content, and our [product panels](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89).
 
 # Membership & Webinar updates
 
@@ -98,22 +98,7 @@ There's a number of things that need to be done on a regular basis around when w
 
 # Product Panel updates
 
-A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`:
-
-
-## **Product Panels (articles)**
-
-- The main product panel `{{% feature-panel %}}`, currently featuring Smashing Book 6
-- The Case Study panel `{{% feature-panel--case-study %}}`, currently featuring Form Design Patterns
-- The conference panel `{{% feature-panel--conference %}}`, promoting our conferences (currently SmashingConf San Francisco)
-
-- `{{% feature-panel %}}`, currently featuring Smashing Book 6
-- `{{% feature-panel--conference %}}`: promoting our conferences (currently SmashingConf San Francisco)
-- `{{% feature-panel--case-study %}}`: currently featuring Form Design Patterns
-- `{{% feature-panel--workflow %}}`: Smashing TV
-- `{{% feature-panel--perf %}}`: articles, books, memberships
-- `{{% feature-panel--ux %}}`: Design Systems
-
+A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`. We have a list of available and active product panels over at our [Article Formatting Guide on Notion](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89):
 
 ## **Frontpage Panel**
 
@@ -256,6 +241,28 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 
 **Paul Boag** is a member of our board of directors, and gives more strategic advice every now and then
 
-**Inge Emmler** (CEO) does the accounting and invoices stuff, and all the nasty paperwork
+**Inge Emmler** (CEO) does the accounting, customer support, oversees the fulfillment, does all the invoices stuff, and pretty much all the nasty routine paperwork
 
 **Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
+
+
+## Travel Expenses
+
+From 2019, if you travel on behalf of Smashing, you can make use of a flat fee per full day (e.g. a conference day) or half a day (8 hours, typically for traveling), which means Smashing will reimburse you with a flat fee, regardless if you are exceeding it or not. Please let @Inge know at the end of each month when you are making use of it.
+
+|Country|Full day|half day|
+|---|---|---|
+Canada (Toronto)|€51|€34
+Germany|€24|€12
+France (Paris)|€58|€39
+Spain (Barcelona)|€34|€23
+USA	(NY)|€58|€39	
+USA	(SF)|€51|€34
+UK (London)|€62|€41
+UK (Rest)|€45|€30
+
+[Here’s the full list](https://www.reisekostenabrechnung.com/verpflegungsmehraufwand-2019/) (in German)
+
+**Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
+
+Please note that conference organisers are the ones to cover accomodation, flights, etc, this can’t be covered by Smashing unless we are _sending_ you to a conference. :-)
