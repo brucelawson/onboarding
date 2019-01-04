@@ -25,6 +25,10 @@ A collection of useful things and instructions. The onboarding includes:
 - Our [Shop dashboard](https://smashing-commerce.netlify.com/)
 - Slack (https://smashingeditorial.slack.com/).	
 	- Make sure to join our [#standup](https://smashingeditorial.slack.com/messages/CD2FP7P97/) channel!
+- Sizeup (an app to move split your screen quick & easy)
+- Stripe (and Paypal)
+- Sublime (most will prefer [Visual Studio](https://visualstudio.microsoft.com/), which is free)
+- Textexpander (tremendously helps you write code and emails)
 - Your own email address	
 
 That's a number of other services we use every now and then:
@@ -98,18 +102,18 @@ There's a number of things that need to be done on a regular basis around when w
 
 # Product Panel updates
 
-A list of _active_ product panels that are included in all of our articles (and for non-members), which you'll find in `/site/layouts/shortcodes/`. We have a list of available and active product panels over at our [Article Formatting Guide on Notion](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89):
+There’s a number of _active_ product panels that are included in our articles, visible only to non-members, which you'll find in `/site/layouts/shortcodes/`. Over on [Article Formatting Guide on Notion](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78#9f9e8d163d8e447a9184d76918665f89), we have listed up all of those product panels. 
 
 ## **Frontpage Panel**
 
-Last but not least, the *Membership Adblock popup*, which appears only for not logged-in users who are using an adblocker:
+There’s also a *Membership Adblock popup* on the Frontpage, which appears only for not logged-in users that are using an adblocker:
 
 You'll find it in `/site/layouts/partials/membership-popup.html`. It needs to be regularly updated, especially after every webinar.
 
 
 ## **Unused Panels**
 
-There is also a number of currently _unused_ but available panel templates, including:
+There is also a number of currently _unused_ panels, such as:
 
 - `{{% feature-panel--design-systems %}}` (about the Design Systems book)
 - `{{% feature-panel-toronto %}}` (about SmashingConf Toronto)
@@ -125,7 +129,7 @@ Please also check:
 
 # Editorial Guidelines
 
-a) Make sure to read the [article formatting guide](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78), a guideline how to format code, images etc properly in Markdown
+a) Make sure to read the [article formatting guide](https://www.notion.so/smashing/Article-Formatting-Guide-765e814d88f44fbdb78da7ae5362de78), a guideline how to format code, images etc properly in Markdown, and make sure to add those snippets to your Textexpander.
 
 b) For our authors, we also have set up a [Style Guide](https://www.smashingmagazine.com/style-guide/) on the most common things that need to be kept in mind when writing an articles
 
