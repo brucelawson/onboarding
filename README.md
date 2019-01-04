@@ -53,6 +53,14 @@ In case you have trouble running it, make sure to a) have *XCode* installed and 
 
 Then visit `http://localhost:3000/` — BrowserSync will automatically reload the page when the CSS or content changes.
 
+**!Important**: before you start the build process for the _very first time_, copy-paste this command into Terminal:
+
+```
+./node_modules/gulp/bin/gulp.js css
+```
+
+...which is a workaround for a gulp bug, which somehow skips the CSS build for the first time.
+
 To test member-specific pages locally, access them by localhost:3000/membership/$plan/ where $plan is actually one of our plans — free, member, supporter or smashing.
 
 ## **Structure**
