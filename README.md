@@ -4,7 +4,7 @@ A collection of useful things and instructions. The onboarding includes:
 
 - [How to set up the local testing environment](#smashingmagazinecom-local-setup) of smashingmagazine.com
 - A list of services we use
-- A checklist of [Webinar updates](#webinar-updates)
+- A checklist of [Webinar updates](#membership--webinar-updates)
 - An overview of active [product panels](#product-panel-updates)
 - A list of [who in the team does what](#whos-doing-what)
 
