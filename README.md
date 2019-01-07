@@ -17,6 +17,7 @@ A collection of useful things and instructions. The onboarding includes:
 - Dropbox, most likely including the `/Mailings/`, `/Membership/`, and `/Newsletter/` folders et al.	
 - [Fastbill](https://my.fastbill.com/) for creating and sending invoices
 - Mailchimp	
+- [Medium](https://medium.com/me/stats) where some of our articles get republished.
 - Notion, where we manage:	
 	- [Conferences](https://www.notion.so/smashing/6279875453324423b202b63f1e9a4041)
 	- [Editorial](https://www.notion.so/smashing/7c3f14e9a2dc442d9448a8a090191f19)
@@ -29,6 +30,7 @@ A collection of useful things and instructions. The onboarding includes:
 - Stripe (and Paypal)
 - Sublime (most will prefer [Visual Studio](https://visualstudio.microsoft.com/), which is free)
 - Textexpander (tremendously helps you write code and emails)
+- [Upscri.be](https://upscri.be/app), a 3rd-party newsletter signup for Medium.com
 - Your own email address	
 
 That's a number of other services we use every now and then:
