@@ -260,6 +260,22 @@ If you need to update an existing artwork, e.g. social sharing image, you can al
 **Markus Seyfferth** (CEO) runs the business side of Smashing and also takes care of financial plannings, forecasts, and advertising / sponsoring partners
 
 
+## Conference Discounts
+
+Discounts always should look like *support*, such as support of local communities, students, underrepresented groups etc.
+
+But discounts that go into a newsletter or onto a public site (e.g. https://www.neonmoire.com/) can make people who bought a regular ticket angry. It also makes us look cheap, it devaluates the brand.
+
+Group discounts, Super Early Birds and Early Birds are fine! Discounts for the sake of promotion discounts are not helping, though.
+
+It should be a transparent and seen/given reason for people. 
+
+- _“Ah, cool, you get a discount as a student”_,
+- _“Perfect, the ticket is cheaper, if i have to travel from far away.“_,
+- _“Oh great: groups from 5 people off get a discount”_, 
+- _*“Smashing Membership gives me a huge discount”*_
+
+
 ## Travel Expenses
 
 From 2019, if you travel on behalf of Smashing, you can make use of a flat fee per full day (e.g. a conference day) or half a day (8 hours, typically for traveling), which means Smashing will reimburse you with a flat fee, regardless if you are exceeding it or not. Please let @Inge know at the end of each month when you are making use of it.
