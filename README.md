@@ -109,6 +109,12 @@ There's a number of things that need to be done on a regular basis around when w
 	- Please update `/membership/#coming-up-next` (`/site/layouts/partials/coming-up-paid.html`) and (`/site/layouts/partials/coming-up.html`)
 	- Please update `/membership/#how-we-spent-the-money` (`/site/layouts/partials/spendings.html`)
 	- Add the link to the webinar recordings (`/site/layouts/partials/webinars.html`)
+	
+## ** Transcripts **
+These will show on the front end at /smashing-tv/transcripts/internationalisation/
+
+location of transcripts: `site/content/transcripts`
+if you want to modify a template for a single transcript, it's here `site/layouts/transcripts/single.html`
 
 # Product Panel updates
 
